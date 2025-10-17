@@ -8,8 +8,9 @@ import android.os.Looper;
 import android.os.Message;
 import android.os.Parcel;
 import android.os.RemoteException;
+import android.util.Log;
+
 import com.samsung.util.ReflectionUtils;
-import com.samsung.util.debug.Log;
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;

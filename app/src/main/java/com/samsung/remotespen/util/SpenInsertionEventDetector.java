@@ -5,9 +5,10 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.IntentFilter;
 import android.os.SystemClock;
+import android.util.Log;
+
 import com.samsung.util.CommonUtils;
 import com.samsung.util.SpenGestureManagerWrapper;
-import com.samsung.util.debug.Log;
 import com.samsung.util.usage.SAUtils;
 import java.util.ArrayList;
 import java.util.Iterator;

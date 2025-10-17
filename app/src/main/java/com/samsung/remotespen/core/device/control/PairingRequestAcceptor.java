@@ -6,7 +6,6 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.IntentFilter;
 import android.util.Log;
-
 import androidx.recyclerview.widget.RecyclerView;
 import com.samsung.remotespen.core.device.data.BleSpenInstanceId;
 import java.util.ArrayList;

@@ -1,11 +1,12 @@
 package com.samsung.remotespen.core.device.control.detector;
 
 import android.content.Context;
+import android.util.Log;
+
 import com.samsung.remotespen.core.device.control.detector.GestureHistoryInfo;
 import com.samsung.remotespen.core.device.control.factory.BleSpenDeviceFactory;
 import com.samsung.remotespen.core.device.control.factory.BleSpenDeviceFeature;
 import com.samsung.util.StringArray;
-import com.samsung.util.debug.Log;
 import com.samsung.util.features.SpenModelName;
 
 /* loaded from: classes.dex */

@@ -6,6 +6,7 @@ import android.os.Handler;
 import android.os.Looper;
 import android.os.Message;
 import android.os.SystemClock;
+import android.util.Log;
 import android.view.InputChannel;
 import android.view.InputEvent;
 import android.view.KeyEvent;
@@ -16,7 +17,6 @@ import com.samsung.util.OsVersion;
 import com.samsung.util.ReflectionUtils;
 import com.samsung.util.SafeHandlerThread;
 import com.samsung.util.debug.Assert;
-import com.samsung.util.debug.Log;
 import java.util.ArrayList;
 
 /* loaded from: classes.dex */

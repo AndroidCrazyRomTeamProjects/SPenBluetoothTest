@@ -5,9 +5,10 @@ import android.hardware.Sensor;
 import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
 import android.hardware.SensorManager;
+import android.util.Log;
+
 import com.samsung.util.CommonUtils;
 import com.samsung.util.SpenGestureManagerWrapper;
-import com.samsung.util.debug.Log;
 
 /* loaded from: classes.dex */
 public class MagneticSensorDetector {

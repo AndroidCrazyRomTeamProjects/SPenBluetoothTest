@@ -2,7 +2,7 @@ package com.samsung.remotespen.core.device.control.detector;
 
 import android.os.Handler;
 import android.os.HandlerThread;
-import com.samsung.util.debug.Log;
+import android.util.Log;
 
 /* JADX INFO: Access modifiers changed from: package-private */
 /* compiled from: BleSpenAirGestureActionDetector.java */

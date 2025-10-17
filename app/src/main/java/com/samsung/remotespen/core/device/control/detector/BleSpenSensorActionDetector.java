@@ -2,6 +2,8 @@ package com.samsung.remotespen.core.device.control.detector;
 
 import android.content.Context;
 import android.graphics.Point;
+import android.util.Log;
+
 import com.samsung.remotespen.core.device.control.detector.BleSpenAirGestureActionDetector;
 import com.samsung.remotespen.core.device.control.detector.BleSpenButtonActionDetector;
 import com.samsung.remotespen.core.device.control.factory.BleSpenDeviceFactory;
@@ -11,7 +13,6 @@ import com.samsung.remotespen.core.device.data.BleSpenGestureEvent;
 import com.samsung.remotespen.core.device.data.BleSpenGestureType;
 import com.samsung.remotespen.core.device.data.BleSpenSensorEvent;
 import com.samsung.util.debug.Assert;
-import com.samsung.util.debug.Log;
 import com.samsung.util.features.SpenModelName;
 import java.util.ArrayList;
 import java.util.Iterator;

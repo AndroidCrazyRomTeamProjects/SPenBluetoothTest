@@ -7,6 +7,8 @@ import android.content.IntentFilter;
 import android.os.Handler;
 import android.os.PowerManager;
 import android.os.SystemClock;
+import android.util.Log;
+
 import com.samsung.remotespen.core.device.chargepolicy.BleSpenChargeController;
 import com.samsung.remotespen.core.device.chargepolicy.BleSpenChargeLockStateMonitor;
 import com.samsung.remotespen.core.device.control.BleSpenDeviceMainController;
@@ -18,7 +20,6 @@ import com.samsung.remotespen.util.SpenInsertionEventDetector;
 import com.samsung.util.CommonUtils;
 import com.samsung.util.SafeHandlerThread;
 import com.samsung.util.debug.Assert;
-import com.samsung.util.debug.Log;
 
 /* loaded from: classes.dex */
 public class BleSpenBlindChargeController extends BleSpenChargeController {
