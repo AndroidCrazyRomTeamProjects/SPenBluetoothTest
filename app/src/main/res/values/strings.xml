@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">S Pen Bluetooth Test</string>
+    <string name="s_pen_model_autodetect">S pen Autodetect</string>
+    <string name="connect">Connect</string>
+    <string name="connecting_s_pen">Connecting to the S pen..</string>
+
+</resources>

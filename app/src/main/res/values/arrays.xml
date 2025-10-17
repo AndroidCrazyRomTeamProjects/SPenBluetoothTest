@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="s_pen_models">
+        <item>Crown</item>
+        <item>Rainbow</item>
+        <item>Da Vinci</item>
+    </string-array>
+</resources>
