@@ -16,7 +16,7 @@ import com.samsung.remotespen.core.device.data.BleOpResultData;
 import com.samsung.remotespen.core.device.util.BleUtils;
 import com.samsung.util.CommonUtils;
 import com.samsung.util.ReflectionUtils;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 
 /* JADX INFO: Access modifiers changed from: package-private */
 /* compiled from: BleSpenBleDriver.java */

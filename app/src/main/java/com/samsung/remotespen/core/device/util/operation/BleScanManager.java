@@ -18,7 +18,7 @@ import com.samsung.remotespen.core.device.ble.abstraction.IScanResult;
 import com.samsung.remotespen.core.device.data.BleSpenScanFilter;
 import com.samsung.remotespen.core.device.util.BleUtils;
 import com.samsung.util.ReflectionUtils;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import com.samsung.util.sep.SepWrapper;
 import java.util.ArrayList;
 import java.util.List;

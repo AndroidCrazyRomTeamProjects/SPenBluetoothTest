@@ -15,7 +15,7 @@ import com.samsung.remotespen.core.device.ble.abstraction.IBleDevice;
 import com.samsung.remotespen.core.device.ble.abstraction.IBleGatt;
 import com.samsung.remotespen.core.device.ble.abstraction.IBleGattCallback;
 import com.samsung.util.TestHelper;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import java.util.UUID;
 
 /* loaded from: classes.dex */

@@ -11,7 +11,7 @@ import androidx.core.app.NotificationCompat;
 import com.samsung.remotespen.core.device.data.BleSpenInstanceId;
 import com.samsung.remotespen.main.notification.NotificationController;
 import com.samsung.remotespen.util.BatteryPolicy;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 
 /* JADX INFO: Access modifiers changed from: package-private */
 /* loaded from: classes.dex */

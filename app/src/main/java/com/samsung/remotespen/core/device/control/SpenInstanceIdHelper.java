@@ -6,7 +6,7 @@ import android.util.Log;
 
 import com.samsung.remotespen.core.device.data.BleSpenInstanceId;
 import com.samsung.remotespen.core.device.util.BleUtils;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import com.samsung.util.features.ModelFeatures;
 import com.samsung.util.features.SpenModelName;
 

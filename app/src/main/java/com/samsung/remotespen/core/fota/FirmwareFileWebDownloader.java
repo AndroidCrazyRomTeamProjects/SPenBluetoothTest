@@ -3,7 +3,7 @@ package com.samsung.remotespen.core.fota;
 import android.content.Context;
 import android.util.Log;
 
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.InputStream;

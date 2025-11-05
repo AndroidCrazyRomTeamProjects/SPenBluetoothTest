@@ -11,7 +11,7 @@ import com.samsung.aboutpage.Constants;
 import com.samsung.remotespen.RemoteSpenTileService;
 import com.samsung.util.SpenGestureManagerWrapper;
 import com.samsung.util.constants.SPenSettingsConstants;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import com.samsung.util.debug.Log;
 import com.samsung.util.features.ModelFeatures;
 import com.samsung.util.usage.SAUtils;

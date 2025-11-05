@@ -3,7 +3,7 @@ package com.samsung.remotespen.main.invocation;
 import android.content.Context;
 import android.text.TextUtils;
 import com.samsung.remotespen.core.penaction.manager.PenActionRule;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import java.util.HashSet;
 
 /* loaded from: classes.dex */

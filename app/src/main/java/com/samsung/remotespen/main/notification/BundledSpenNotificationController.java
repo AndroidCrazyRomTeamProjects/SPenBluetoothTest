@@ -16,7 +16,7 @@ import com.samsung.remotespen.util.BatteryPolicy;
 import com.samsung.remotespen.util.SettingsPreferenceManager;
 import com.samsung.remotespen.util.SpenInsertionEventDetector;
 import com.samsung.util.CommonUtils;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import com.samsung.util.usage.SAUtils;
 
 /* JADX INFO: Access modifiers changed from: package-private */

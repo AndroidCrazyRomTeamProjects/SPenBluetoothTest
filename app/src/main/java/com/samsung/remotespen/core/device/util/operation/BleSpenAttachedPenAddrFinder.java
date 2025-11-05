@@ -17,7 +17,7 @@ import com.samsung.remotespen.core.device.util.operation.BleScanManager;
 import com.samsung.remotespen.core.device.util.operation.BleStandAloneModeEnabler;
 import com.samsung.remotespen.util.SpenInsertionEventDetector;
 import com.samsung.util.CommonUtils;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.HashMap;
@@ -273,7 +273,7 @@ public class BleSpenAttachedPenAddrFinder implements BleCancellableOperation {
             Ld:
                 r2 = r1
             Le:
-                com.samsung.util.debug.Assert.e(r2)     // Catch: java.lang.Throwable -> Lb
+                com.crazyromteam.spenbletest.utils.Assert.e(r2)     // Catch: java.lang.Throwable -> Lb
                 if (r7 != 0) goto L28
                 java.lang.String r7 = com.samsung.remotespen.core.device.util.operation.BleSpenAttachedPenAddrFinder.access$000()     // Catch: java.lang.Throwable -> Lb
                 java.lang.String r2 = "marks is null"

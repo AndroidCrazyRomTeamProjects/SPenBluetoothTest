@@ -9,7 +9,7 @@ import com.samsung.remotespen.core.device.control.factory.davinci.BleSpenDavinci
 import com.samsung.remotespen.core.device.control.factory.ext1.BleSpenExt1Factory;
 import com.samsung.remotespen.core.device.control.factory.great.BleSpenGreatFactory;
 import com.samsung.remotespen.core.device.control.factory.rainbow.BleSpenRainbowFactory;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import com.samsung.util.features.SpenModelName;
 
 /* loaded from: classes.dex */

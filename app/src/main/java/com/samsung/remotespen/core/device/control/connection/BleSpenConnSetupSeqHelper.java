@@ -11,7 +11,7 @@ import com.samsung.remotespen.core.device.data.BleCancellableOperation;
 import com.samsung.remotespen.core.device.data.BleOpResultCode;
 import com.samsung.remotespen.core.device.data.BleOpResultData;
 import com.samsung.remotespen.core.device.data.BleSpenOperationMode;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import com.samsung.util.settings.SettingsValueManager;
 import java.util.ArrayList;
 

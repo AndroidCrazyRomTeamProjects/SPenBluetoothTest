@@ -8,7 +8,7 @@ import android.util.Log;
 import com.samsung.aboutpage.Constants;
 import com.samsung.remotespen.core.device.BleSpenManager;
 import com.samsung.util.StringArray;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import java.util.Iterator;
 
 /* loaded from: classes.dex */

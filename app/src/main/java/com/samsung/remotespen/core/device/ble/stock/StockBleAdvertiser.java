@@ -11,7 +11,7 @@ import android.util.Log;
 
 import com.samsung.remotespen.core.device.ble.abstraction.IAdvertiser;
 import com.samsung.remotespen.core.device.ble.abstraction.IScanCallback;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import java.util.HashMap;
 import java.util.List;
 

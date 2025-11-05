@@ -16,7 +16,7 @@ import com.samsung.remotespen.util.SpenInputDetector;
 import com.samsung.util.OsVersion;
 import com.samsung.util.ReflectionUtils;
 import com.samsung.util.SafeHandlerThread;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import java.util.ArrayList;
 
 /* loaded from: classes.dex */

@@ -23,7 +23,7 @@ import com.samsung.remotespen.core.device.util.operation.BleSpenRemoveBondOperat
 import com.samsung.remotespen.core.remoteaction.Action;
 import com.samsung.remotespen.ui.tutorial.AirActionTutorialConstant;
 import com.samsung.remotespen.util.SpenInsertionEventDetector;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import com.samsung.util.features.SpenModelName;
 import com.samsung.util.settings.SettingsValueManager;
 

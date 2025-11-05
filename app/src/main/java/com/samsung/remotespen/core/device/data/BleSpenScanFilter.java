@@ -2,7 +2,7 @@ package com.samsung.remotespen.core.device.data;
 
 import android.bluetooth.le.ScanFilter;
 import android.os.ParcelUuid;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import java.util.UUID;
 
 /* loaded from: classes.dex */

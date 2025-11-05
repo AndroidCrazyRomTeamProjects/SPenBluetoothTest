@@ -1,6 +1,6 @@
 package com.samsung.remotespen.core.device.data;
 
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 
 /* loaded from: classes.dex */
 public class BleSpenButtonEvent extends BleSpenSensorEvent {

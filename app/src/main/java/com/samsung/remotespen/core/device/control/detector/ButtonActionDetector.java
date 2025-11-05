@@ -6,7 +6,7 @@ import android.os.SystemClock;
 import android.util.Log;
 
 import com.samsung.remotespen.core.device.data.BleSpenButtonEvent;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import com.samsung.util.sep.SemFloatingFeatureWrapper;
 
 /* JADX INFO: Access modifiers changed from: package-private */

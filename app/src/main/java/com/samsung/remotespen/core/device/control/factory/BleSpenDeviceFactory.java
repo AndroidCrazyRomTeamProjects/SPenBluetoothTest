@@ -6,7 +6,7 @@ import com.samsung.remotespen.core.device.control.behavior.policy.AbsPenBehavior
 import com.samsung.remotespen.core.device.control.factory.creator.BleSpenFactoryCreator;
 import com.samsung.remotespen.core.device.data.BleSpenInstanceId;
 import com.samsung.remotespen.core.device.util.operation.BleSpenAttachedPenAddrFinder;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import com.samsung.util.features.SpenModelName;
 import java.util.HashMap;
 

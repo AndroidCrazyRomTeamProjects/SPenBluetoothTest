@@ -6,7 +6,7 @@ import android.os.Looper;
 import android.util.Log;
 
 import com.samsung.remotespen.util.KeyInjectionBooster;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 
 /* loaded from: classes.dex */
 public class CallbackRepeater {

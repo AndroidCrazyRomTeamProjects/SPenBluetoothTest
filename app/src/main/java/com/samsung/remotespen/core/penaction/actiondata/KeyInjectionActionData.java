@@ -6,7 +6,7 @@ import android.util.Log;
 import com.crazyromteam.spenbletest.R;
 import com.samsung.aboutpage.Constants;
 import com.samsung.util.ViewHelper;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;

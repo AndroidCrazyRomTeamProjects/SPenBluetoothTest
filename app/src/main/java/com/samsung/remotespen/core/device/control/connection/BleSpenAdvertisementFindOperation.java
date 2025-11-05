@@ -12,7 +12,7 @@ import com.samsung.remotespen.core.device.data.BleOpResultData;
 import com.samsung.remotespen.core.device.util.BleUtils;
 import com.samsung.remotespen.core.device.util.operation.BleScanManager;
 import com.samsung.remotespen.core.device.util.operation.BleSpenAsyncOperation;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import com.samsung.util.features.SpenModelName;
 import java.util.ArrayList;
 

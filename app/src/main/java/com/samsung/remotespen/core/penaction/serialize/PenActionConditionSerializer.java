@@ -8,7 +8,7 @@ import com.samsung.remotespen.core.penaction.condition.FixedMatchCondition;
 import com.samsung.remotespen.core.penaction.condition.ForegroundActivityCondition;
 import com.samsung.remotespen.core.penaction.condition.MediaSessionCondition;
 import com.samsung.remotespen.core.penaction.condition.PenActionCondition;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import org.json.JSONException;
 import org.json.JSONObject;
 

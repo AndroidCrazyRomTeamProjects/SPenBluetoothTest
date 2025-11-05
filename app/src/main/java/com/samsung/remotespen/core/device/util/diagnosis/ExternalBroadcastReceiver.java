@@ -7,7 +7,7 @@ import android.content.IntentFilter;
 import android.util.Log;
 
 import com.samsung.util.constants.CommonIntent;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 
 /* JADX INFO: Access modifiers changed from: package-private */
 /* compiled from: DiagnosisManager.java */
