@@ -10,12 +10,13 @@ import android.media.session.MediaSessionManager;
 import android.os.Handler;
 import android.os.RemoteException;
 import android.service.notification.StatusBarNotification;
+import android.util.Log;
+
 import com.samsung.remotespen.util.NotificationServiceMonitor;
 import com.samsung.util.ActivitySwitchDetector;
 import com.samsung.util.CommonUtils;
 import com.samsung.util.ReflectionUtils;
 import com.crazyromteam.spenbletest.utils.Assert;
-import com.samsung.util.debug.Log;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
