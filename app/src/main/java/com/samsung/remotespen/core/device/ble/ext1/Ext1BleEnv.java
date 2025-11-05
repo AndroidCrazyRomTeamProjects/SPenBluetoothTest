@@ -17,7 +17,6 @@ import com.samsung.remotespen.core.device.ble.abstraction.IAdvertiser;
 import com.samsung.remotespen.core.device.ble.abstraction.IBleDevice;
 import com.samsung.remotespen.core.device.ble.abstraction.IBleEnv;
 import com.samsung.remotespen.external.BindingApiConstants;
-import com.samsung.remotespen.ui.tutorial.AirActionTutorialConstant;
 import com.samsung.util.debug.Assert;
 
 /* loaded from: classes.dex */
@@ -64,7 +63,7 @@ public class Ext1BleEnv implements IBleEnv {
                     Ext1BleEnv.this.sendEasyConnectRequest();
                 }
             }
-        }, AirActionTutorialConstant.DESCRIPTION_SHOW_DELAY);
+        }, 1000L);
     }
 
     @Override // com.samsung.remotespen.core.device.ble.abstraction.IBleEnv

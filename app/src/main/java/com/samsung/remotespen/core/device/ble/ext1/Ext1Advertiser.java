@@ -7,7 +7,6 @@ import android.os.Looper;
 import com.samsung.remotespen.core.device.ble.abstraction.IAdvertiser;
 import com.samsung.remotespen.core.device.ble.abstraction.IBleDevice;
 import com.samsung.remotespen.core.device.ble.abstraction.IScanCallback;
-import com.samsung.remotespen.ui.tutorial.AirActionTutorialConstant;
 import java.util.List;
 
 /* loaded from: classes.dex */
@@ -29,7 +28,7 @@ public class Ext1Advertiser implements IAdvertiser {
                     iScanCallback.onScanResult(new Ext1ScanResult(Ext1Advertiser.this.mDevice));
                 }
             }
-        }, AirActionTutorialConstant.DESCRIPTION_SHOW_DELAY);
+        }, 1000L);
     }
 
     @Override // com.samsung.remotespen.core.device.ble.abstraction.IAdvertiser

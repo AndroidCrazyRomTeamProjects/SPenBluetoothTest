@@ -3,8 +3,9 @@ package com.samsung.remotespen.util;
 import android.os.Handler;
 import android.os.Message;
 import android.os.SystemClock;
+import android.util.Log;
+
 import com.samsung.remotespen.util.SpenInputDetector;
-import com.samsung.util.debug.Log;
 import java.util.ArrayList;
 
 /* JADX INFO: Access modifiers changed from: package-private */
@@ -50,7 +51,7 @@ public class HoverListenerInvoker {
     }
 
     public synchronized boolean isHoverSessionActivated() {
-        boolean z;
+        boolean z = false;
         HoverSession hoverSession = this.mCurHoverSession;
         if (hoverSession != null) {
             z = hoverSession.mHoverExitTime == 0;
