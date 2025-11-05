@@ -1,0 +1,22 @@
+package com.samsung.remotespen.core.penaction.manager;
+
+/* loaded from: classes.dex */
+public enum PenActionDataType {
+    DO_NOTHING,
+    APP_DEFINED,
+    APP_LAUNCH,
+    CAMERA_CONTROL,
+    MEDIA_CONTROL_PLAY_PAUSE,
+    MEDIA_CONTROL_NEXT_TRACK,
+    MEDIA_CONTROL_PREV_TRACK,
+    MEDIA_CONTROL_VOLUME_UP,
+    MEDIA_CONTROL_VOLUME_DOWN,
+    MEDIA_CONTROL_UNKNOWN,
+    INJECT_HOME_KEY,
+    INJECT_BACK_KEY,
+    INJECT_RECENT_KEY,
+    INJECT_CUSTOM_KEY,
+    AIR_MOUSE_ENABLE,
+    LAUNCH_SCREEN_WRITE,
+    LAUNCH_SMART_SELECT
+}
