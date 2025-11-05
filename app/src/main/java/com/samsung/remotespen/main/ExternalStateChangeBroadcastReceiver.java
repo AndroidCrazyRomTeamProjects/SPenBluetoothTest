@@ -8,7 +8,7 @@ import android.util.Log;
 
 import com.samsung.remotespen.util.Constants;
 import com.samsung.util.constants.CommonIntent;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 
 /* loaded from: classes.dex */
 public class ExternalStateChangeBroadcastReceiver extends BroadcastReceiver {

@@ -1,7 +1,7 @@
 package com.samsung.remotespen.core.penaction.actiondata;
 
 import android.content.Context;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import org.json.JSONObject;
 
 /* loaded from: classes.dex */

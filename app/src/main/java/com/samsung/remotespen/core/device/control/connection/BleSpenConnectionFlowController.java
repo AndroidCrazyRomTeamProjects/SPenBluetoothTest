@@ -21,7 +21,7 @@ import com.samsung.remotespen.core.device.data.BleSpenScanFilter;
 import com.samsung.remotespen.core.device.util.diagnosis.DiagnosisManager;
 import com.samsung.remotespen.core.device.util.operation.BleSpenAttachedPenAddrFinder;
 import com.samsung.remotespen.core.device.util.operation.BleStandAloneModeEnabler;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import com.samsung.util.features.SpenModelName;
 import com.samsung.util.settings.SettingsValueManager;
 import java.util.ArrayList;

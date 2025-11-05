@@ -12,7 +12,7 @@ import com.samsung.remotespen.core.device.ble.abstraction.IBleScanner;
 import com.samsung.remotespen.core.device.ble.abstraction.IScanCallback;
 import com.samsung.remotespen.core.device.ble.ext1.Ext1BleEnv;
 import com.samsung.remotespen.core.device.ble.stock.StockBleEnv;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;

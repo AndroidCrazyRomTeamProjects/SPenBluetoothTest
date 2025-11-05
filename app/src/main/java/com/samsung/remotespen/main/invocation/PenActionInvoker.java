@@ -18,7 +18,7 @@ import com.samsung.remotespen.core.remoteaction.RemoteActionManager;
 import com.samsung.remotespen.util.MediaControlStateMonitor;
 import com.samsung.util.CommonUtils;
 import com.samsung.util.KeyEventInjector;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import com.samsung.util.shortcut.AppShortcut;
 import java.util.ArrayList;
 import java.util.List;

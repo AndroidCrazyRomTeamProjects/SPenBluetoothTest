@@ -13,7 +13,7 @@ import com.samsung.remotespen.core.device.data.BleCancellableOperation;
 import com.samsung.remotespen.core.device.data.BleOpResultCode;
 import com.samsung.remotespen.core.device.data.BleOpResultData;
 import com.samsung.remotespen.core.device.util.BleUtils;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import com.samsung.util.permission.DefinedPermission;
 import com.samsung.util.permission.PermissionUtil;
 

@@ -5,7 +5,7 @@ import android.os.IInterface;
 import android.os.RemoteCallbackList;
 import android.util.Log;
 
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import java.util.HashMap;
 
 /* JADX INFO: Access modifiers changed from: package-private */

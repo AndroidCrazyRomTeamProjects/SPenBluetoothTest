@@ -8,7 +8,7 @@ import com.samsung.remotespen.core.remoteaction.Action;
 import com.samsung.remotespen.core.remoteaction.RemoteAction;
 import com.samsung.remotespen.core.remoteaction.RemoteActionManager;
 import com.samsung.util.ViewHelper;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import org.json.JSONException;
 import org.json.JSONObject;
 

@@ -12,7 +12,7 @@ import com.samsung.remotespen.core.device.control.factory.BleSpenDriver;
 import com.samsung.remotespen.core.device.data.BleOpResultData;
 import com.samsung.remotespen.util.SpenInsertionEventDetector;
 import com.samsung.util.CommonUtils;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 
 /* compiled from: BleSpenGenericChargeController.java */
 /* loaded from: classes.dex */

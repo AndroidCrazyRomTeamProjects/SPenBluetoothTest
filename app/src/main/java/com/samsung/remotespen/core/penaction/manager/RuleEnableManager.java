@@ -2,7 +2,7 @@ package com.samsung.remotespen.core.penaction.manager;
 
 import android.util.Log;
 
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 
 /* loaded from: classes.dex */
 public class RuleEnableManager {

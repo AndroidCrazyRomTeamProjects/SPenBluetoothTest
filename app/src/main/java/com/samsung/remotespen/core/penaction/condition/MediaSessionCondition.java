@@ -2,7 +2,7 @@ package com.samsung.remotespen.core.penaction.condition;
 
 import android.content.Context;
 import com.samsung.remotespen.util.MediaControlStateMonitor;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import org.json.JSONObject;
 
 /* loaded from: classes.dex */

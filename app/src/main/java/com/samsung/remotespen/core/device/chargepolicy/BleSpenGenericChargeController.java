@@ -27,7 +27,7 @@ import com.samsung.remotespen.util.SpenInsertionEventDetector;
 import com.samsung.util.CommonUtils;
 import com.samsung.util.SafeHandlerThread;
 import com.samsung.util.constants.SPenSettingsConstants;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import com.samsung.util.features.SpenModelName;
 import com.samsung.util.settings.SettingsValueManager;
 import com.samsung.util.settings.SpenSettingObserver;

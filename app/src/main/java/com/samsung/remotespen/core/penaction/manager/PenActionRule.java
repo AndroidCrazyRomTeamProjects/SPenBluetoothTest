@@ -17,7 +17,7 @@ import com.samsung.remotespen.core.penaction.trigger.PenActionTriggerType;
 import com.samsung.remotespen.core.remoteaction.RemoteAction;
 import com.samsung.remotespen.core.remoteaction.RemoteActionManager;
 import com.samsung.util.CommonUtils;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Iterator;

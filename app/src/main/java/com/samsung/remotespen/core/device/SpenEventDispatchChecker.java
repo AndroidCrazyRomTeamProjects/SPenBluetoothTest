@@ -8,7 +8,7 @@ import android.util.Log;
 
 import com.samsung.util.ActivitySwitchDetector;
 import com.samsung.util.CommonUtils;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import java.util.ArrayList;
 import java.util.Iterator;
 

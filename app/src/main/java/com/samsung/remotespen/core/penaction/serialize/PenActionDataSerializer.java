@@ -10,7 +10,7 @@ import com.samsung.remotespen.core.penaction.actiondata.DoNothingActionData;
 import com.samsung.remotespen.core.penaction.actiondata.KeyInjectionActionData;
 import com.samsung.remotespen.core.penaction.actiondata.MediaControlActionData;
 import com.samsung.remotespen.core.penaction.actiondata.PenActionData;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import org.json.JSONException;
 import org.json.JSONObject;
 

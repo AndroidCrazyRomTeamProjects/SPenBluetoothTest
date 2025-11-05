@@ -17,7 +17,7 @@ import com.samsung.remotespen.core.device.ble.abstraction.IAdvertiser;
 import com.samsung.remotespen.core.device.ble.abstraction.IBleDevice;
 import com.samsung.remotespen.core.device.ble.abstraction.IBleEnv;
 import com.samsung.remotespen.external.BindingApiConstants;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 
 /* loaded from: classes.dex */
 public class Ext1BleEnv implements IBleEnv {

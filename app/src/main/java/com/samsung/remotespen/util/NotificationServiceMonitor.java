@@ -3,7 +3,7 @@ package com.samsung.remotespen.util;
 import android.service.notification.NotificationListenerService;
 import android.service.notification.StatusBarNotification;
 import com.samsung.util.ReflectionUtils;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import com.samsung.util.debug.Log;
 
 /* loaded from: classes.dex */

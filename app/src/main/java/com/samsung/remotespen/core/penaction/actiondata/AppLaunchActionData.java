@@ -5,7 +5,7 @@ import android.util.Log;
 
 import com.samsung.aboutpage.Constants;
 import com.samsung.util.ViewHelper;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import com.samsung.util.shortcut.AppShortcut;
 import org.json.JSONException;
 import org.json.JSONObject;

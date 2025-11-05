@@ -1,7 +1,7 @@
 package com.samsung.remotespen.core.device.util.diagnosis;
 
 import com.samsung.aboutpage.Constants;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 
 /* compiled from: HqmManager.java */
 /* loaded from: classes.dex */

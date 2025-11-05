@@ -3,7 +3,7 @@ package com.samsung.remotespen.util.graph;
 import android.os.SystemClock;
 import com.samsung.remotespen.util.graph.GraphUtils;
 import com.samsung.remotespen.util.graph.VertexPath;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import com.samsung.util.debug.Log;
 import java.util.ArrayList;
 import java.util.HashMap;

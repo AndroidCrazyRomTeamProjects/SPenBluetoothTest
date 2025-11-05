@@ -4,7 +4,7 @@ import android.content.Context;
 import com.samsung.remotespen.core.device.control.BleSpenPairedSpenManager;
 import com.samsung.remotespen.core.device.control.SpenInstanceIdHelper;
 import com.samsung.remotespen.core.device.data.BleSpenInstanceId;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import java.util.ArrayList;
 
 /* loaded from: classes.dex */

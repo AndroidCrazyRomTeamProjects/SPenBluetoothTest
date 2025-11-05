@@ -2,7 +2,7 @@ package com.samsung.remotespen.core.device.chargepolicy;
 
 import android.content.Context;
 import com.samsung.remotespen.core.device.control.BleSpenDeviceMainController;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import com.samsung.util.features.SpenModelName;
 
 /* loaded from: classes.dex */

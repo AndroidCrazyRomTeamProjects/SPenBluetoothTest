@@ -32,7 +32,7 @@ import com.samsung.top.AirCommandApplication;
 import com.samsung.util.ActivitySwitchDetector;
 import com.samsung.util.CommonUtils;
 import com.samsung.util.ViewHelper;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import com.samsung.util.settings.SettingsValueManager;
 import com.samsung.util.usage.SAUtils;
 import java.util.ArrayList;

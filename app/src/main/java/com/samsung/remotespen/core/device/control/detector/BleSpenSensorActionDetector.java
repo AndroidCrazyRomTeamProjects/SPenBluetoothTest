@@ -12,7 +12,7 @@ import com.samsung.remotespen.core.device.data.BleSpenButtonId;
 import com.samsung.remotespen.core.device.data.BleSpenGestureEvent;
 import com.samsung.remotespen.core.device.data.BleSpenGestureType;
 import com.samsung.remotespen.core.device.data.BleSpenSensorEvent;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import com.samsung.util.features.SpenModelName;
 import java.util.ArrayList;
 import java.util.Iterator;

@@ -1,7 +1,7 @@
 package com.samsung.remotespen.core.device.control;
 
 import com.samsung.remotespen.core.device.data.BleSpenInstanceId;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import com.samsung.util.features.SpenModelName;
 
 /* JADX INFO: Access modifiers changed from: package-private */

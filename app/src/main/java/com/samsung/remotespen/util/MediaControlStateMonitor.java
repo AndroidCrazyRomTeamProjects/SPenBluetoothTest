@@ -14,7 +14,7 @@ import com.samsung.remotespen.util.NotificationServiceMonitor;
 import com.samsung.util.ActivitySwitchDetector;
 import com.samsung.util.CommonUtils;
 import com.samsung.util.ReflectionUtils;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import com.samsung.util.debug.Log;
 import java.util.ArrayList;
 import java.util.Iterator;

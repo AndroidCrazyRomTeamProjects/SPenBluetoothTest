@@ -21,7 +21,7 @@ import com.samsung.remotespen.core.device.data.BleSpenConnectionInterval;
 import com.samsung.remotespen.core.device.data.BleSpenOperationMode;
 import com.samsung.remotespen.core.device.data.BleSpenSelfTestResultEvent;
 import com.samsung.remotespen.core.device.util.BleUtils;
-import com.samsung.util.debug.Assert;
+import com.crazyromteam.spenbletest.utils.Assert;
 import com.samsung.util.features.SpenModelName;
 import java.util.UUID;
 
